@@ -22,6 +22,22 @@ Passionnée par l'informatique, je suis actuellement en troisième année de BUT
 
 ---
 
+### 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isradh&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
+
+### 📐 Répartition des Langages Utilisés
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isradh&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ### 📚 Projets en cours
 
 - **Application de prêt de livres entre particuliers** : Un système innovant de bibliothèque C2C permettant aux utilisateurs de partager leurs livres avec d'autres, avec une messagerie intégrée et une IA de recommandation.
@@ -37,21 +53,6 @@ Passionnée par l'informatique, je suis actuellement en troisième année de BUT
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
----
-
-### 💬 Où me trouver
-
-- **LinkedIn** : [TonProfilLinkedIn](https://www.linkedin.com)
-- **Mail** : [Email](mailto:tonemail@example.com)
-
-N’hésite pas à explorer mes repositories et à me contacter pour toute idée de projet, question ou collaboration potentielle ! 🚀
-
----
-
-#### 🌟 Un aperçu de mon profil en statistiques :
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical)
 
 ---
 
