@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Isra Dhiab!
 
-Passionnée par l'informatique, je suis actuellement en troisième année de BUT informatique. J'ai acquis des compétences en développement de projets web et mobile, en gestion de bases de données, et en intégration d'API, ce qui me permet de transformer des idées en applications concrètes. 🌐📱
+Passionnée par l'informatique, je suis actuellement en troisième année de BUT informatique. J'ai acquis des compétences en développement de projets web et mobile, en gestion de bases de données, et en intégration d'API, ce qui me permet de transformer des idées en applications concrètes. 
 
 ---
 
