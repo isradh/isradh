@@ -17,8 +17,8 @@ Passionnée par l'informatique, je suis actuellement en troisième année de BUT
 
 - **Languages**: JavaScript, TypeScript, Java, Python, SQL
 - **Frameworks & Libraries**: React Native, NestJS, Prisma ORM
-- **Base de données**: MySQL, Firebase
-- **Outils de développement**: Docker, Webstorm, DataGrip, Jupyter Notebook
+- **Base de données**: MySQL, Firebase, GraphQL
+- **Outils de développement**: Eclipse, Visual Studio, Visual Studio Code, Docker, Webstorm, DataGrip, Jupyter Notebook
 
 ---
 
