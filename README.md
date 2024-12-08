@@ -32,8 +32,8 @@ Passionnée par l'informatique, je suis actuellement en troisième année de BUT
 
 ### 📐 Répartition des Langages Utilisés
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isradh&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isradh&layout=compact&theme=radical" alt="Top Languages" /> 
 </div>
 
 ---
