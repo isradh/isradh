@@ -2,6 +2,8 @@
 
 Passionnée par l'informatique, je suis actuellement en troisième année de BUT informatique. J'ai acquis des compétences en développement de projets web et mobile, en gestion de bases de données, et en intégration d'API, ce qui me permet de transformer des idées en applications concrètes. 
 
+Je suis actuellement à la recherche d'une alternance dans les domaines du développement ou de la data, afin de continuer à développer mes compétences tout en contribuant à des projets intéressants. Je suis aussi ouverte aux opportunités dans le domaine du data. Mon objectif à long terme est d'intégrer une école d'ingénieur pour approfondir mes connaissances et mes compétences techniques. Je suis disponible pour un contact pendant 3 ans.
+
 ---
 
 ### 🚀 À propos de moi
@@ -10,7 +12,7 @@ Passionnée par l'informatique, je suis actuellement en troisième année de BUT
 - 💡 Je m'intéresse aux technologies récentes et pratiques de développement, comme **React Native**, **NestJS**, **GraphQL**, et bien plus.
 - 🎓 En formation, avec un accent sur les **projets pratiques** et **l'innovation technologique**.
 - 🤝 Ouverte à des collaborations et toujours curieuse d'en apprendre davantage dans le domaine de la tech !
-
+- 🎯 Objectifs : Trouver une alternance dans l'informatique et intégrer une école d'ingénieur pour poursuivre mes études et développer mes compétences techniques.
 ---
 
 ### 🔧 Compétences Techniques
